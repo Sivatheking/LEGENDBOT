@@ -11,7 +11,7 @@
     "productivity"
   ],
   "repository": "https://github.com/Sivatheking/LEGENDBOT/",
-  "website": "https://github.com/sivatheking/LEGENDBOT/",
+  "website": "https://github.com/Sivatheking/LEGENDBOT/",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
