@@ -12,6 +12,7 @@
   ],
   "repository": "https://github.com/Sivatheking/LEGENDBOT/",
   "website": "https://github.com/Sivatheking/LEGENDBOT/",
+  "success_url": "https://t.me/shubots",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
